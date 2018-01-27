@@ -1,6 +1,8 @@
 # **Two Sum**
 <sub>https://leetcode.com/problems/two-sum/description/</sub>
 ___
+**Description**
+
 Given an array of integers, return <b>indices</b> of the two numbers such that they add up to a specific target.
 
 You may assume that each input would have <b>exactly</b> one solution, and you may not use the <i>same</i> element twice.
